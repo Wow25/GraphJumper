@@ -11,3 +11,7 @@ Basically everything (Art, music, code, ect) made by me.
 Made in Godot 3.2.1
 
 If you'd like the source code, or any thing else related to the project, feel free to contact me! Wow25#6015 on Discord
+
+Here's a trailer, and an alternate link to download, should any issues appear:
+Trailer - https://www.youtube.com/watch?v=RXUDDT0b72c
+GameJolt Link - https://gamejolt.com/games/GraphJump/739682
